@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='excel_modifier',
-    version='0.1',
+    name='excel_modify',
+    version='0.2',
     author='DrCino',
     author_email='khaled775057605@gmail.com',
     description='A package for editing Excel files for specific files',
