@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/dist/*
+/excel_modifier_2.egg-info/*
+/excel_modify.egg-info/*

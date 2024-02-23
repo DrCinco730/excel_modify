@@ -1,13 +1,12 @@
 # Excel Modifier
 Excel modifier is a Python package for editing Excel files. It provides a convenient interface to modify comments in Excel files, allowing users to update comments for specific cells.
 
-```markdown
-## Installation
 
-You can install Excel modifier using pip:
+## Installation
+__You can install Excel modifier using pip:__
 
 ```bash
-pip install excel_modifier
+pip install excel-modify
 ```
 
 ## Usage
