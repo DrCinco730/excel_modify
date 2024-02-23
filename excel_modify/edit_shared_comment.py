@@ -1,4 +1,4 @@
-from excel_modifier.edit_excel import EditExcel
+from excel_modify.edit_excel import EditExcel
 
 
 class EditSharedComment(EditExcel):

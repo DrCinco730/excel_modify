@@ -1,5 +1,5 @@
-from excel_modifier.edit_main_comment import EditMainComment
-from excel_modifier.edit_shared_comment import EditSharedComment
+from excel_modify.edit_main_comment import EditMainComment
+from excel_modify.edit_shared_comment import EditSharedComment
 
 
 class ExcelMode:

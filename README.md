@@ -19,7 +19,7 @@ pip install excel-modify
 4. Save the changes using the `save` method.
 
 ```python
-from excel_modifier import ExcelMode
+from excel_modify import ExcelMode
 
 # Initialize ExcelMode with the path to your Excel file
 excel_mode = ExcelMode('path/to/your/excel/file.xlsx')
