@@ -1,4 +1,4 @@
-# Excel Modifier
+# Excel Modify
 Excel modifier is a Python package for editing Excel files. It provides a convenient interface to modify comments in Excel files, allowing users to update comments for specific cells.
 
 

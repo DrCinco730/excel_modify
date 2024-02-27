@@ -1,0 +1,8 @@
+# Default ignored files
+excel_modify/__pycache__/
+build/
+dist/
+excel_modify.egg-info/
+.idea
+
+
