@@ -13,7 +13,7 @@ pip install excel-modify
 
 ### Quick Start
 
-1. Import the `ExcelMode` class from the `excel_modifier` package.
+1. Import the `ExcelMode` class from the `excel_modify` package.
 2. Initialize `ExcelMode` with the path to your Excel file.
 3. Use the `set_comment` method to update the comment for a specific cell.
 4. Save the changes using the `save` method.
